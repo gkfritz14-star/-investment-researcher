@@ -1,3 +1,5 @@
+# Final Presentation Video Link: https://youtu.be/erPJEpVCIxw
+
 # 🔍 Investment Team Researcher
 
 A GenAI-powered Streamlit app that automatically extracts, identifies, and researches investment team members from pension fund and asset manager websites — turning a manual hours-long process into a 2-minute workflow.
